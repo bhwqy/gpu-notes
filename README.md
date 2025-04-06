@@ -15,6 +15,16 @@ Supplement topics:
 
 ## other gpu materials
 
+## LLM推理框架对比
+### VLLM
+### SGLANG
+### TensorRT-LLM
+### ollama
+### lm deploy
+
+## 分布式集群
+## AI编译器
+
 ## 大模型推理技术
 + 大模型推理优化技术-KV Cache
   + https://www.zhihu.com/question/653658936
@@ -45,4 +55,5 @@ Supplement topics:
 + https://zhuanlan.zhihu.com/p/30427909948
 + https://zhuanlan.zhihu.com/p/30076930810
 + https://zhuanlan.zhihu.com/p/30058413999
++ https://www.nvidia.cn/on-demand/
 
